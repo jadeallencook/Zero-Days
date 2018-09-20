@@ -1,0 +1,13 @@
+.link {
+    cursor: pointer;
+    color: rgb(16, 100, 209);
+}
+
+.def {
+    font-size: 0.75em;
+    margin: 15px 0px 25px 0px;
+}
+
+.header {
+    margin-bottom: 0px;
+}

@@ -1,0 +1,20 @@
+.result {
+    border-bottom: solid thin grey;
+    margin: 25px 0px;
+}
+
+.title {
+    margin: 15px 0px 5px 0px;
+}
+
+.view {
+    background-color: rgb(16, 100, 209);
+    color: #FFF;
+    border: none;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.description {
+    font-size: 0.75em;
+}

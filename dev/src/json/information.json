@@ -1,0 +1,7 @@
+{
+    "xss": {
+        "abbreviation": "XSS",
+        "full": "Cross Site Scripting",
+        "definition": "When malicious scripts are injected into trusted websites. Flaws that allow these attacks to succeed occur anywhere a web application uses input from a user within the output it generates without validating or encoding it."
+    }
+}
