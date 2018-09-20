@@ -9,7 +9,6 @@ class XSSLink extends Component {
         if (data.encoding === 'doubleURI') {
             link = encodeURI(link);
         }
-        console.log(this.props);
         return (<a target="_blank" href={link}>{link.substring(0, 65)}...</a>);
     }
 }
